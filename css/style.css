@@ -1,0 +1,58 @@
+.slider .slides li .caption, .text-slider
+{
+    color: black;
+    text-shadow: 1px 1px 5px black;
+}
+
+.slider.fullscreen{
+    bottom: 0;
+    height: 100;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+.minhacor
+{
+    color: goldenrod;
+}
+
+.slider .slides li .caption
+{
+    top: 40%;
+}
+
+.espacSuperior{
+    margin-top: 95vh;
+}
+
+
+.btn:hover, .btn:hover
+{
+    background-color: darkgrey;
+}
+.btn, .btn-large
+{
+    background-color: #e1bee7;
+}
+
+.slider .indicators .indicator-item
+{
+    background-color: whitesmoke;
+}
+
+.slider .indicators .indicator-item.active
+{
+    background-color: #4a148c;
+}
+
+.equipe
+{
+    padding-bottom: 50px;
+}
+
+.card .card-image .card-title
+{
+    color:#ffab00;
+}
